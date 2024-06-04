@@ -4,7 +4,7 @@
 }
 
 .Reloj{
-background-image: url("reloj.bmp");
+background-image: url("reloj.png");
 background-position: 0%;
 background-size: cover;
 flex-direction: column;
