@@ -3,19 +3,17 @@
 }
 
 .Reloj{
+    flex-direction: column;
 width: 200px;
 height: 200px;
-margin: 50px auto;
+margin: 50x auto;
 border: 2px solid grey;
-border-radius: 15%;
+border-radius: 30%;
 display: flex;
 justify-content: center;
 align-items: center;
 }
 #fecha{
     flex-direction: column;
-    width: 200px;
-    height: 200px;
-    margin: 50x auto;
-    
+    font-size: 10px;
 }
