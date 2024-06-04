@@ -1,0 +1,21 @@
+#tiempo{
+    font-size: 40px;
+}
+
+.Reloj{
+width: 200px;
+height: 200px;
+margin: 50px auto;
+border: 2px solid grey;
+border-radius: 15%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+#fecha{
+    flex-direction: column;
+    width: 200px;
+    height: 200px;
+    margin: 50x auto;
+    
+}
